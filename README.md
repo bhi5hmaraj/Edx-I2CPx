@@ -15,3 +15,5 @@ Binary search (implementation and examples). An overview of sorting algorithms (
 ### Week 4: Graph theory ###
 Definition of graphs and examples of graph problems. Various ways of storing graphs in memory. Bitmask optimization. Depth First Search and related topics: connected components, detecting cycles, detecting bipartite graphs. Shortest paths: Breadth First Search, Dijkstra, Bellman-Ford, Floyd-Warshall.
 
+### Week 5: Contest ###
+Week 5 is the final exam week. On the final exam, we will have 5 hours to solve 8 problems. 

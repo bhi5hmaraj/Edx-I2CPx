@@ -1,5 +1,5 @@
 # Edx-I2CPx #
-This repository contains my source code for the problems in the course [I2CPx "How to win coding competitions: secrets of champions"] (https://courses.edx.org/courses/course-v1:ITMOx+I2CPx+3T2016/info) by ITMO in EdX
+This repository contains my source code for the problems in the course [I2CPx "How to win coding competitions: secrets of champions"](https://courses.edx.org/courses/course-v1:ITMOx+I2CPx+3T2016/info) by ITMO in EdX
 
 ## Syllabus ##
 
